@@ -1,0 +1,6 @@
+@HYBS2025.WebApi_HostAddress = http://localhost:5206
+
+GET {{HYBS2025.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
