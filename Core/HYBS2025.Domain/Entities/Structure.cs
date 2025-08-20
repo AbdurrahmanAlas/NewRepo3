@@ -30,6 +30,7 @@ namespace EntityLayer.Concrete
         public string Note { get; set; }
         public string EnsonIslem { get; set; }
         public string BekleyenIslem { get; set; }
+        //DENEME
         public decimal Kazi { get; set; }
         public decimal Dolgu { get; set; }
         public string DocumentName { get; set; }
